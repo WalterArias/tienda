@@ -2,12 +2,12 @@ import { useState } from "react";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.js";
-import Emailto from "./components/Emailto";
+import Mapa1 from "./components/mapa1";
 
 function App() {
   return (
     <>
-      <Emailto />;
+      <Mapa1 />;
     </>
   );
 }
