@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-
+// instalar libreria 
+//npm install @emailjs/browser --save
 import { Document, Page, Text, View, StyleSheet, PDFViewer } from "@react-pdf/renderer";
 // Create styles
 const styles = StyleSheet.create({
